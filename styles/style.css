@@ -2,16 +2,22 @@
 *{margin: 5px;
   padding: 0;
   font-family: arial;
+
   
 }
+
+
+
+
 form{
   width: 400px;
   height: 700px;
-  background-color:whitesmoke;
+  /* background-color:whitesmoke; */
   border-width: 2px;
   border-style: solid;
   border-color: black;
   border-radius: 10px;
+  background-image: url(/styles/1567836.jpg);
  
   
 }
