@@ -72,4 +72,12 @@ input{
   
   /* box-shadow: 1px 5px 8px rgba(0, 0, 0, .5); */
 }
+p{
+  color:black;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 40px;
+  text-decoration:underline;
+  text-decoration-color: red;
+}
 
